@@ -1,0 +1,33 @@
+export interface ReportDataInterface {
+    id: string;
+    ictFund: number;
+    percentageOfBudget: number;
+    presenceOfIctProjects: number;
+    ictMinistry: number;
+    stateIctPolicy: number;
+    officialMailUse: number;
+    officialInternetProvision: number;
+    officialInternetSpeed: number;
+    videoConferenceUse: number;
+    intranetUse: number;
+    ict4Learning: number;
+    ict4HealthRecords: number;
+    presenceofTelemedicine: number;
+    digitizedLandRecords: number;
+    digitizedJudiciary: number;
+    digitizedAgric: number;
+    ecommerceIncentives: number;
+    stateIctSystemDeploment: number;
+    stateITDepartment: number;
+    digitizedFiling: number;
+    cyberSecurityInfra: number;
+    startupDb: number;
+    startupInvestmentVolume: number;
+    startUpDirectJobs: number;
+    stateWebsiteFunctionality: number;
+    stateWebsiteUI: number;
+    stateWebsiteSecurity: number;
+    iCTUpskill: number;
+    certifiedITPersonnel: number;
+    state: string;
+}

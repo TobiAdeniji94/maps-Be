@@ -1,0 +1,70 @@
+// signup
+{
+  "firstName": "Terry",
+  "lastName": "Adeleke",
+  "email": "adert90@gmail.com",
+  "role": "Admin",
+  "password": "UserD$1password"
+}
+
+// sign in
+{
+  "email": "adert90@gmail.com",
+  "password": "UserD$1password"
+}
+
+// generate user
+{
+  "firstName": "Tobi",
+  "lastName": "Ade",
+  "email": "ad4d43@gmail.com",
+  "password": "UserD$1password"
+}
+
+// create state
+{
+  "name": "Taraba"
+}
+
+// create report
+{
+  "createdById": null,
+  "approvedById": null,
+  "reportDataId": "331e800d-07df-4cb8-b484-18a869e5fa58",
+  "stateId": "d591d262-3acb-4341-a853-f1a0a719e1d2",
+  "approved": true
+}
+
+// create report data
+{
+  "ictFund": 5,
+  "percentageOfBudget": 10,
+  "presenceOfIctProjects": 3,
+  "ictMinistry": true,
+  "stateIctPolicy": true,
+  "officialMailUse": 4,
+  "officialInternetProvision": 2,
+  "officialInternetSpeed": 4,
+  "videoConferenceUse": 3,
+  "intranetUse": 3,
+  "ict4Learning": true,
+  "ict4HealthRecords": true,
+  "presenceofTelemedicine": true,
+  "digitizedLandRecords": 1,
+  "digitizedJudiciary": 3,
+  "digitizedAgric": true,
+  "ecommerceIncentives": false,
+  "stateIctSystemDeploment": 2,
+  "stateITDepartment": true,
+  "digitizedFiling": true,
+  "cyberSecurityInfra": false,
+  "startupDb": 5,
+  "startupInvestmentVolume": 1000000,
+  "startUpDirectJobs": 50,
+  "stateWebsiteFunctionality": 4,
+  "stateWebsiteUI": 5,
+  "stateWebsiteSecurity": 4,
+  "iCTUpskill": true,
+  "certifiedITPersonnel": true
+}
+
